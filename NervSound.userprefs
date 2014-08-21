@@ -1,10 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Key.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\GameManager.cs">
     <Files>
       <File FileName="Assets\Script\StartButton.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\ExitButton.cs" Line="18" Column="3" />
-      <File FileName="Assets\Script\Key.cs" Line="13" Column="47" />
+      <File FileName="Assets\Script\ExitButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Key.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameManager.cs" Line="5" Column="41" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
